@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @psychederik
 - 👀 I’m interested in Web/App Design & Development, gaming, and love learning new and useful skills.
-- 🌱 I’m currently learning web design and development using HTML & CSS with the intention of acquiring a job as an Email Developer.
+- 🌱 I’m currently learning HTML & CSS with the intention of acquiring a job as an Email Developer.
 - 💞️ I’m looking to collaborate on beginner projects to increase my experience as a developer.
 - 📫 You can reach me via Discord at <b>psychederik</b>
 
