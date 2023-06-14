@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @psychederik
-- 👀 I’m interested in web/app design/dev, crypto/defi/nft, gaming, and love discovering useful topics.
-- 🌱 I’m currently learning web design and development with the intention of expanding my knowledge in the digital space.
-- 💞️ I’m looking to collaborate on projects to generate passive income.
-- 📫 You can reach me via Discord at <b>psychederik#1042</b>
+- 👀 I’m interested in Web/App Design & Development, gaming, and love learning new and useful skills.
+- 🌱 I’m currently learning web design and development using HTML & CSS with the intention of acquiring a job as an Email Developer.
+- 💞️ I’m looking to collaborate on beginner projects to increase my experience as a developer.
+- 📫 You can reach me via Discord at <b>psychederik</b>
 
 <!---
 psychederik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
